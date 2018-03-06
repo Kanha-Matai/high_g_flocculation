@@ -82,6 +82,15 @@ This experiment eliminated the possibility that the pressure build up was caused
 Due to some an overnight issue, we were solely able to obtain 3 hours of valuable data for this trial. This experiment surprised us as it was not what we hypothesized.We believed it was the combination of both the coagulant along with the clay that was causing the headloss. Instead, this data shows that the coagulant alone causes the pressure increase. In fact, the pressure increase was even more significant. Within 3 hours, the pressure was able to rise from 70cm to 95cm, which is half the change when run with clay in a third of the time. This experiment was conducted with regular tubing, and hence, to ensure the hydrophobic tubing makes an insignificant difference in headloss, we ran an experiment with hydrophobic tubing too.
 
 ![water+coagulant,hydtub]()
+
+Looking at the data, we can see a continuous build-up of pressure. To fairly compare the results from the hydrophobic test and the regular tubing, we looked at the graphs for the first three hours of both experiments due to only having 3-hour long trial for regular tubing. The axes have been matched the axes to visually compare notice the difference between the two. From the experiment, the headloss with the change with hydrophobic tubing was almost half the change with regular tubing (15cm versus 25cm).
+
+![water+coagulant,hydtub3]() ![water+coagulant,regtub3]() 
+
+Additionally, another very interesting observation from this trial is the sudden drop in pressure around the 12th hour- this is when the coagulant ran out. This potentially proves that running water for a short amount of time without coagulant can actually clear out the coagulant. A more focused graph at the 12th hour shows we were able to lose almost all of the built up pressure within 2 minutes. Hence,  ramping up water flow to 4x that of the trial could mean removing all of the built-up pressure in 30 seconds.(note: the x-axis has been changed to minutes to get a more precise and understandable reading). This loss in pressure could be due to the pumping in of air bubbles as the coagulant pump continued to run, however this will be our future tests.
+
+![pressuredrop]()
+
 *Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
 In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
 
